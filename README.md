@@ -1,5 +1,5 @@
 # Data Models
-Repository to share openBIS data models.
+A Repository of community developed openBIS data models.
 
 This repository can be used for sharing openBIS data models. 
 
