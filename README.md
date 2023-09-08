@@ -10,9 +10,11 @@ Data models should be provided as a folder containing:
 4. A readme file with any documentation needed, at least a short description.
 
 ## Example:
+```
     - My data model
         master-data.xls
         README.md
         - scripts
             script-01.py
             script-02.py
+```
